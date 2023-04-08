@@ -1,0 +1,20 @@
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.csproj.AssemblyReference.cache
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim_Bakkalım.Form1.resources
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.csproj.GenerateResource.cache
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.GeneratedMSBuildEditorConfig.editorconfig
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.AssemblyInfoInputs.cache
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.AssemblyInfo.cs
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.csproj.CoreCompileInputs.cache
+D:\görsel programlama\Benim Bakkalım\bin\Debug\net6.0-windows\Benim Bakkalım.exe
+D:\görsel programlama\Benim Bakkalım\bin\Debug\net6.0-windows\Benim Bakkalım.deps.json
+D:\görsel programlama\Benim Bakkalım\bin\Debug\net6.0-windows\Benim Bakkalım.runtimeconfig.json
+D:\görsel programlama\Benim Bakkalım\bin\Debug\net6.0-windows\Benim Bakkalım.dll
+D:\görsel programlama\Benim Bakkalım\bin\Debug\net6.0-windows\Benim Bakkalım.pdb
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.dll
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\refint\Benim Bakkalım.dll
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.pdb
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim Bakkalım.genruntimeconfig.cache
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\ref\Benim Bakkalım.dll
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim_Bakkalım.Properties.Resources.resources
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim_Bakkalım.sale.resources
+D:\görsel programlama\Benim Bakkalım\obj\Debug\net6.0-windows\Benim_Bakkalım.Fis.resources
