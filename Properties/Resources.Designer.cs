@@ -80,15 +80,7 @@ namespace Benim_Bakkalım.Properties {
             }
         }
         
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Download_Thinking_man_with_question_mark_for_free {
-            get {
-                object obj = ResourceManager.GetObject("Download Thinking man with question mark for free", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+      
         
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -171,29 +163,9 @@ namespace Benim_Bakkalım.Properties {
             }
         }
         
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Premium_Vector___Man_holding_phone_and_peeking_behind_the_wall_while_startled__shocked__surprised__curiosity__listening__discovery_and_pay_attention_concept_illustration {
-            get {
-                object obj = ResourceManager.GetObject("Premium Vector _ Man holding phone and peeking behind the wall while startled, sh" +
-                        "ocked, surprised, curiosity, listening, discovery and pay attention concept illu" +
-                        "stration", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+       
         
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Premium_Vector___Young_smiling_curious_male_character_peeking_from_behind_wall_with_rectangular_shape_and_looking_outside_portrait_of_cheerful_man_peeping_or_watching_for_something_cartoon_people_ve {
-            get {
-                object obj = ResourceManager.GetObject("Premium Vector _ Young smiling curious male character peeking from behind wall wi" +
-                        "th rectangular shape and looking outside portrait of cheerful man peeping or wat" +
-                        "ching for something cartoon people ve", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+       
         
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
