@@ -1,10 +1,10 @@
 # Bakkal Otomasyonu - Sql'siz
 
 _Giriş sayfası_
-![giriş sayfası](img/Benim_Bakkalım_n3xJVZhgX7.png)
+![giriş sayfası](img/Benim_Bakkalım_n3xJVZhgX7.png){witdh = 100 height = 100}
 
 _Satış ve ekleme sayfası_
-![satış ve ekleme](img/Benim_Bakkalım_PxPNWqJobv.png)
+![satış ve ekleme](img/Benim_Bakkalım_PxPNWqJobv.png){witdh = 100 height = 100}
 
 _ürün ekleme_
-![ürün ekleme](img/Benim_Bakkalım_iyOUMUHxr2.gif)
+![ürün ekleme](img/Benim_Bakkalım_iyOUMUHxr2.gif){witdh = 100 height = 100}
