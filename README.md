@@ -2,14 +2,14 @@
 
 _Giriş sayfası_
 
-<img src="img/Benim_Bakkalım_n3xJVZhgX7.png" width="700" height="400">
+<img src="img/Benim_Bakkalım_n3xJVZhgX7.png" width="750" height="400">
 
 
 _Satış ve ekleme sayfası_
 
-<img src="img/Benim_Bakkalım_PxPNWqJobv.png" width="700" height="400">
+<img src="img/Benim_Bakkalım_PxPNWqJobv.png" width="750" height="400">
 
 
 _ürün ekleme_
 
-<img src="img/Benim_Bakkalım_iyOUMUHxr2.gif" width="700" height="400">
+<img src="img/Benim_Bakkalım_iyOUMUHxr2.gif" width="750" height="400">
