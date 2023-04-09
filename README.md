@@ -18,5 +18,9 @@ _Tanıtım video_
 <video src="https://user-images.githubusercontent.com/115823740/230765949-55237569-5c03-434e-a350-03e9c4010f38.mp4" 
 width="640" height="640" controls></video>
 
+https://user-images.githubusercontent.com/115823740/230765949-55237569-5c03-434e-a350-03e9c4010f38.mp4
+
+
+
 
 
