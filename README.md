@@ -1,7 +1,7 @@
 # Bakkal Otomasyonu - Sql'siz
 
 _Giriş sayfası_
-<img src="img/Benim_Bakkalım_n3xJVZhgX7.png" width="100" height="100">
+<img src="img/Benim_Bakkalım_n3xJVZhgX7.png" width="500" height="500">
 
 
 _Satış ve ekleme sayfası_
